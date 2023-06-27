@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cartao_de_visita</string>
+    <string name="nome">Victor Hugo</string>
+    <string name="titulo">Desenvolvedor Kotlin</string>
+    <string name="numero">(37)98585-3350</string>
+    <string name="git">VictorHuugoDV</string>
+    <string name="gmail">victorhuugo1112@Gmail.com</string>
+</resources>
